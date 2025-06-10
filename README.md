@@ -2,6 +2,9 @@
 
 A real-time interactive dashboard for tracking global COVID-19 statistics, trends, and predictive forecasts. Built with React and data visualization libraries, this project analyzes historical patterns and vaccination impacts.
 
+![image](https://github.com/user-attachments/assets/600f916f-7cb5-4932-96df-ccd474603b53)
+
+
 ## Key Features
 
 - **Global Overview**: Live metrics (cases, deaths, recoveries) with daily changes  a
@@ -38,4 +41,4 @@ A real-time interactive dashboard for tracking global COVID-19 statistics, trend
    npm start
 
 
-4. Access at http://localhost: (your port number)
+4. Access at http://localhost:3000
