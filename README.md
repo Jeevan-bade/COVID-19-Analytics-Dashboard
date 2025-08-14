@@ -30,7 +30,7 @@ A real-time interactive dashboard for tracking global COVID-19 statistics, trend
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/covid-dashboard.git
+   [git clone https://github.com/yourusername/covid-dashboard.git](https://github.com/Jeevan-bade/COVID-19-Analytics-Dashboard.git)
 
 2. Install dependencies:
    ```bash
